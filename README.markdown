@@ -63,8 +63,6 @@ You can run the Jupyter notebook on Google Colab or locally if you have the nece
 1. Upload the dataset file `PII_dataset_2.xlsx` to your environment.
 2. Run the notebook cells in order.
 
-**Note**: Make sure to have GPU enabled if running on Colab for better performance.
-
 ## References
 
 - **QWen 2.5 Model**: [QWen 2.5 1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)
